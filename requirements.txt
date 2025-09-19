@@ -1,0 +1,17 @@
+wikipedia 
+langgraph-checkpoint-sqlite 
+#llama-cpp-python 
+ollama 
+llama-stack 
+langchain_experimental
+langchain-nomic 
+langchain_community 
+langchainhub 
+#chromadb 
+#langchain 
+#langgraph 
+#tavily-python 
+nomic[local] 
+langchain-text-splitters 
+langchain-ollama 
+#tiktoken
