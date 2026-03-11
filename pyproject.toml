@@ -1,0 +1,25 @@
+[project]
+name = "wikipedia-analyst-agent"
+version = "0.1.0"
+dependencies = [
+    "wikipedia == 1.4.0"
+    "langgraph-checkpoint-sqlite == 3.0.3"
+    "ollama == 0.6.1"
+    "llama-stack == 0.6.0"
+    "langchain-core >=1.2.10"
+    "langchain_community >=0.4.0"
+    "langchainhub == 0.1.21"
+    "nomic[local] == 3.9.0"
+    "langchain-text-splitters == 1.1.1"
+    "langchain-ollama == 0.6.1"
+]
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+disallow_untyped_defs = true
+
+[build-system]
+requires = ["setuptools==69"]
+build-backend = "setuptools.build_meta"
+
