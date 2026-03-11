@@ -1,4 +1,6 @@
-![stock computer](assets/computer.jpg)
+<img src="./assets/computer.jpg" alt="stock computer" width="40%"/>.
+
+## Wikipedia Analyst Agent
 
 This is an AI agent designed to take in a user's question and query wikipedia to craft an informed and insightful answer. Putting this together for my own learning of how AI agent systems are built and  orhcestrated.
 
