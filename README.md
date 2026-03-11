@@ -13,8 +13,8 @@ Alternatively, you can play around with the commands in the end-to-end-agent not
 ## Installation
 clone the repo and install the requirements
 
-    ```git pull https://github.com/8t88/Wikipedia\ Analyst\ Agent.git```  
-    ```cd Wikipedia\ Analyst\ Agent```  
+    ```git pull https://github.com/8t88/Wikipedia-Analyst-Agent.git```  
+    ```cd Wikipedia-Analyst-Agent```  
     ```pip install -e .```  
 
 ## Usage
